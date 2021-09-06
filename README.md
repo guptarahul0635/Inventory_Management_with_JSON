@@ -1,9 +1,3 @@
-# Problem:
-Storage costs can quickly accumulate for many businesses, and many companies wind up putting on a big sale simply because they over-ordered certain items to make storage more manageable. It’s important to keep track of exactly how many of each item you have in stock, along with how much you have on order.
-
-# Introduction:
-The inventory management system here, tracks inventory from purchase to the sale of goods.
-It manages the goods for the small scale shops using the power of python and json. Furthermore, it saves a lot of time and efforts of the shopkeepers and facilitates them in the tedious task of managing inventory and sales.
 
 # Working:
 This project is mainly divided into two files:
